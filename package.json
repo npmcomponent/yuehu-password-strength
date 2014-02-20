@@ -1,26 +1,13 @@
 {
-  "name": "password-strength",
-  "version": "0.0.1",
+  "name": "yuehu-password-strength",
   "description": "Check if a password is strong enough.",
-  "main": "index.js",
-  "directories": {
-    "test": "test"
-  },
-  "scripts": {
-    "test": "make test"
-  },
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/yuehu/password-strength.git"
-  },
+  "version": "0.0.1",
   "keywords": [
     "password",
     "form",
     "strength"
   ],
-  "author": "Hsiaoming Yang <me@lepture.com>",
-  "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/yuehu/password-strength/issues"
-  }
+  "main": "index.js",
+  "dependencies": {},
+  "license": "MIT"
 }

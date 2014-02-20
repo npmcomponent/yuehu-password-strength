@@ -1,3 +1,4 @@
+*This repository is a mirror of the [component](http://component.io) module [yuehu/password-strength](http://github.com/yuehu/password-strength). It has been modified to work with NPM+Browserify. You can install it using the command `npm install npmcomponent/yuehu-password-strength`. Please do not open issues or send pull requests against this repo. If you have issues with this repo, report it to [npmcomponent](https://github.com/airportyh/npmcomponent).*
 # password-strength
 
 Check if a password is strong enough. Available on Node and Browser.
